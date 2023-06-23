@@ -15,10 +15,18 @@ export default class About extends Component {
             <div className="nine columns main-col">
 
                <h2>About Me</h2>
+               {/* <h1>Michael</h1> */}
                <p>
-               {
+               {/* {
                  resumeData.aboutme
-               }
+               } */}
+               Results-driven software developer with a broad scientific background and a proven track record of delivering
+               tailored software solutions. Possesses a strong work ethic fostered through research and co-op experience,
+               complemented by a socially-conscious approach to problem-solving that prioritizes the end user's needs. <br/> <br/>
+
+               Currently seeking a full-time position to apply expertise and expand skill set, aiming to contribute to the success of an exceptional organization.<br/> <br/>
+
+               When AFK, enjoys weightlifting, mixed-martial arts, music, movies and board games.
                </p>
 
                <div className="row">
